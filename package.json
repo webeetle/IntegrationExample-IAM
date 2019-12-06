@@ -1,0 +1,16 @@
+{
+  "name": "example_iam",
+  "version": "1.0.0",
+  "description": "## For run example",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve -l 8080"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "keycloak-js": "^3.4.3",
+    "serve": "^11.2.0"
+  }
+}

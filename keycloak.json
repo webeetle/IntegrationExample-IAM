@@ -1,0 +1,10 @@
+{
+    "realm": "XXXXX",
+    "auth-server-url": "XXXXX",
+    "ssl-required": "external",
+    "resource": "XXXXX",
+    "credentials": {
+        "secret": "XXXXXX"
+    },
+    "confidential-port": 0
+}
